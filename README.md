@@ -20,6 +20,9 @@
 
 ### Selected work
 
+**[pay-equity-wage-gap](https://github.com/sys9317/pay-equity-wage-gap)**
+<br><sub>Wage regression and Oaxaca-Blinder decomposition of the U.S. gender pay gap on 2022 ACS microdata, with a full limitations section</sub>
+
 **[chicago-homicide-analysis](https://github.com/sys9317/chicago-homicide-analysis)**
 <br><sub>Spatial analysis in R of homicide and arrest-clearance disparities across Chicago census tracts, combining 8M+ police records with ACS data.</sub>
 
