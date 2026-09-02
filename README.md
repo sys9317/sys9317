@@ -11,8 +11,9 @@
 
 ---
 
-**Education** · Master of International Development Policy (STEM), Georgetown University, McCourt School of Public Policy (May 2026)
-              · Bachelor of Science in International Relations, Leiden University (June 2024) 
+**Education** 
+· Master of International Development Policy (STEM), Georgetown University, McCourt School of Public Policy (May 2026)
+· Bachelor of Science in International Relations, Leiden University (June 2024) 
 
 **Focus** · Development Economics · impact evaluation · Econometrics · Applied Data Science · Technology policy · Geopolitics · East Asia
 
