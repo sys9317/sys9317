@@ -13,7 +13,7 @@
 
 **Now** · Master of International Development Policy (STEM), Georgetown University, McCourt School of Public Policy (May 2026)
 
-**Focus** · development economics · impact evaluation · economic security and technology policy · East Asia
+**Focus** · Development Economics · impact evaluation · Econometrics · Applied Data Science · Technology policy · East Asia
 
 ---
 
